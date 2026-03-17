@@ -9,7 +9,7 @@ tqdm
 seaborn
 jupyter
 ipykernel
+manim
 torch
 torchvision
 tensorflow
-
