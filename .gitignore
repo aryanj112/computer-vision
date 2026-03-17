@@ -1,0 +1,10 @@
+.DS_Store
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+data/raw/
+data/processed/
+outputs/figures/
+outputs/canny-edge-detection/
+
