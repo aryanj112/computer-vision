@@ -1,6 +1,8 @@
 # Computer Vision
 
-This repository is for learning and building computer vision algorithms in Jupyter notebooks.
+This repository holds the code behind my computer vision work and blog posts at [aryanjain.work/blog](https://www.aryanjain.work/blog).
+
+Right now it is centered around notebooks, experiments, and handwritten implementations as I learn and build more projects over time.
 
 ## Setup
 
@@ -16,5 +18,4 @@ pip install -r requirements.txt
 - `data/raw/` contains original input data.
 - `data/processed/` contains cleaned or transformed data.
 - `outputs/figures/` contains generated plots and images.
-- `outputs/canny-edge-detection/` contains outputs for the Canny edge detection project.
-
+- `outputs/` contains generated project outputs.
