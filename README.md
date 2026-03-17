@@ -15,7 +15,7 @@ pip install -r requirements.txt
 ## Structure
 
 - `notebooks/` contains notebook experiments and implementations.
-- `data/raw/` contains original input data.
-- `data/processed/` contains cleaned or transformed data.
-- `outputs/figures/` contains generated plots and images.
-- `outputs/` contains generated project outputs.
+- `data/` contains project-specific folders that usually match notebook names.
+- `outputs/` contains project-specific output folders that usually match notebook names.
+
+In most cases, each notebook will have a matching folder in `data/` and `outputs/` with the same name. Some projects may use subfolders like `raw/` and `processed/`, but that will depend on the project.
